@@ -6,4 +6,4 @@ J'ai pu apprendre Bootstrap avec ce projet, et à créer une maquette Front.
 Voir la maquette ici : 
 
 
-https://github.com/TheValou/Maquette/pulse
+https://firstmaquette.herokuapp.com/
